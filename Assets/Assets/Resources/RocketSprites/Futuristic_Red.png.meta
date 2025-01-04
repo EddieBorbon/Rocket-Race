@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Futuristic_Red_0: -5450752529778105708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
