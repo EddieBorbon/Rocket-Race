@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Futuristic_Blue_0: -585879721505683481
+      Futuristic_Blue_1: -3910741638105874933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
