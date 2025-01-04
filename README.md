@@ -29,6 +29,12 @@ To run the game locally, follow these steps:
 3. **Build & Run**:
    - Once the project is opened, build and run the game by going to `File > Build Settings` and clicking `Build`.
 
+## Play the Game 🎮
+You can play the game directly here:  
+[Play Rocket Race on Unity](https://play.unity.com/en/games/09fd063e-56a1-44a2-a653-6fa6864b28a4/rocket-race)  
+Or on this link:  
+[Play Rocket Race](https://eddieborbon.github.io/25-5-clock/)  
+
 ## Configuration ⚡
 
 ### Team Management 👥
