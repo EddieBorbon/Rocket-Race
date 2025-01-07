@@ -2,6 +2,8 @@
 
 **Rocket Race** is an interactive music game built with **Unity 6** where players compete in teams to correctly identify musical chords or instruments based on audio clues. The game helps players learn music by engaging them in quick decision-making while enhancing their musical ear.
 
+![Project Screenshot](cover.png) 
+
 ## Features ✨
 - **Modes**: Two modes are available:
   - **Chords** 🎶: Players must identify whether a chord is Major or Minor.
